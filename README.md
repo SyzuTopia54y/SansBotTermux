@@ -16,11 +16,17 @@ Siapin alat dan bahannya.
 > penyimpanan yang memadai
 > aplikasi whatsapp
 > aplikasi termux
-> kopi+rokok ;v
+> kopi+rokok (kalo Merokok) ;v
 ```
+### Cara Buat Bot Anti Lemot :v
+> Ingat Loh Lancar sama stabil beda
+> WiFi Lancar Dan Stabil 
+> Data Lancar Dan Stabil
+> Open New session di termux
+> Trus ketik ping 0.0.0.0
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Script ini di modifikasi sama saya sendiri SyzuTopia54y.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
